@@ -1,0 +1,283 @@
+[
+  {
+    "title": "Cybersecurity Fundamentals",
+    "issuer": "IBM",
+    "issued_at": "2025-12-30",
+    "expires_at": null,
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769465935/cyber_w8z1p9.png",
+    "verify": "https://www.credly.com/badges/c411297d-1b61-45e8-9b59-38efd584bc8e"
+  },
+  {
+    "title": "Career Management Essentials",
+    "issuer": "IBM",
+    "issued_at": "2025-12-19",
+    "expires_at": null,
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769465823/cmeIBM_kbnehg.png",
+    "verify": "https://www.credly.com/badges/df01862d-8b5e-4ebb-a5d8-58de81df23c6"
+  },
+  {
+    "title": "Belajar Dasar Pemrograman JavaScript",
+    "issuer": "Dicoding",
+    "issued_at": "2024-01-15",
+    "expires_at": "2027-01-15",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400574/dicoding2_tpopby.png",
+    "verify": "https://www.dicoding.com/certificates/1OP8J899VPQK"
+  },
+  {
+    "title": "Belajar Dasar Pemrograman Web",
+    "issuer": "Dicoding",
+    "issued_at": "2024-01-15",
+    "expires_at": "2027-02-18",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400575/dicoding1_hns6pr.png",
+    "verify": "https://www.dicoding.com/certificates/1OP8J899VPQK"
+  },
+  {
+    "title": "Belajar Membuat Front-End Web untuk Pemula",
+    "issuer": "Dicoding",
+    "issued_at": "2024-02-21",
+    "expires_at": "2027-02-21",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769465444/frontdasar_za1wcs.png",
+    "verify": "https://www.dicoding.com/certificates/81P2VM4D8POY"
+  },
+  {
+    "title": "Belajar Dasar AI",
+    "issuer": "Dicoding",
+    "issued_at": "2026-01-03",
+    "expires_at": "2029-01-03",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769465137/belajardasarAI_ylvxbn.png",
+    "verify": "https://www.dicoding.com/certificates/1OP8J899VPQK"
+  },
+  {
+    "title": "Developer",
+    "issuer": "Alibaba Cloud Academy",
+    "issued_at": "2024-01-15",
+    "expires_at": "2025-09-10",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400575/international_bvizpa.jpg",
+    "verify": ""
+  },
+  {
+    "title": "Bootstrap Css Framework",
+    "issuer": "Codepolitan",
+    "issued_at": "2023-09-23",
+    "expires_at": "2026-09-21",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400546/3_wqzmh5.png",
+    "verify": "https://www.codepolitan.com/c/NC908NL"
+  },
+  {
+    "title": "Dasar Html",
+    "issuer": "Codepolitan",
+    "issued_at": "2023-09-23",
+    "expires_at": "2026-09-21",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400546/1_lgdjxq.png",
+    "verify": "https://www.codepolitan.com/c/NJVGUDY"
+  },
+  {
+    "title": "Javascript",
+    "issuer": "Codepolitan",
+    "issued_at": "2023-09-23",
+    "expires_at": "2026-09-22",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400546/4_xbngcj.png",
+    "verify": "https://www.codepolitan.com/c/0ZD4LVC"
+  },
+  {
+    "title": "Dasar Css",
+    "issuer": "Codepolitan",
+    "issued_at": "2023-09-22",
+    "expires_at": "2026-09-21",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400547/2_lbb0lr.png",
+    "verify": "https://www.codepolitan.com/c/ZARVERL"
+  },
+  {
+    "title": "Javascript Ascynchronous",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-01-02",
+    "expires_at": "2027-01-01",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400548/6_qqsjmf.png",
+    "verify": "https://www.codepolitan.com/c/VIH1E7I"
+  },
+  {
+    "title": "Konsep OOP di Javascript",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-22",
+    "expires_at": "2027-02-21",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400548/8_dx39su.png",
+    "verify": "https://www.codepolitan.com/c/K2MY7HM"
+  },
+  {
+    "title": "Ajax dan Web API",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-18",
+    "expires_at": "2027-02-17",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400548/7_a7uc2r.png",
+    "verify": "https://www.codepolitan.com/c/DL1KBFU"
+  },
+  {
+    "title": "Javascript DOM",
+    "issuer": "Codepolitan",
+    "issued_at": "2023-09-24",
+    "expires_at": "2026-09-23",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400548/5_x15ce2.png",
+    "verify": "https://www.codepolitan.com/c/WEJ2MUC"
+  },
+  {
+    "title": "Node.js dan NPM Basic",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-23",
+    "expires_at": "2027-02-22",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400548/5_x15ce2.png",
+    "verify": "https://www.codepolitan.com/c/FLOUDBU"
+  },
+  {
+    "title": "Express.js Basic",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-23",
+    "expires_at": "2027-02-22",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400549/10_yzzxm6.png",
+    "verify": "https://www.codepolitan.com/c/FGQJQNB"
+  },
+  {
+    "title": "Halaman Web Dinamis dengan Exspress.js dan EJS",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-23",
+    "expires_at": "2027-02-22",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400550/11_bcae47.png",
+    "verify": "https://www.codepolitan.com/c/1B3JQG"
+  },
+  {
+    "title": "RESTful API dengan Express.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-23",
+    "expires_at": "2027-02-22",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400558/12_axkazk.png",
+    "verify": "https://www.codepolitan.com/c/B031KJW"
+  },
+  {
+    "title": "MongoDB di Javascript",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400559/13_stcvwf.png",
+    "verify": "https://www.codepolitan.com/c/RNFSVYG"
+  },
+  {
+    "title": "Project Exspress.js dengan MongoDB",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400559/14_mpbtwt.png",
+    "verify": "https://www.codepolitan.com/c/7XOTUNR"
+  },
+  {
+    "title": "Nest.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400560/15_desef7.png",
+    "verify": "https://www.codepolitan.com/c/AQUTHSL"
+  },
+  {
+    "title": "Middleware di Exspress.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400560/16_hjhcge.png",
+    "verify": "https://www.codepolitan.com/c/SMELFTH"
+  },
+  {
+    "title": "Error Handler di Exspress.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400560/17_gfyjly.png",
+    "verify": "https://www.codepolitan.com/c/Q6P7POK"
+  },
+  {
+    "title": "Relasi Data di MongoDB",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400561/18_faxzyu.png",
+    "verify": "https://www.codepolitan.com/c/NADKWHU"
+  },
+  {
+    "title": "Management Router dan Cookies di Express.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400566/20_rgyt7j.png",
+    "verify": "https://www.codepolitan.com/c/HTYJ8EL"
+  },
+  {
+    "title": "Relasi Database MongoDB di Express.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400566/19_pplzkl.png",
+    "verify": "https://www.codepolitan.com/c/VMOP1LJ"
+  },
+  {
+    "title": "Management Hot data dengan Session di Express.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400566/21_hmvuk3.png",
+    "verify": "https://www.codepolitan.com/c/NQ2HXJY"
+  },
+  {
+    "title": "Konsep AUTH dan Implementasi di Express.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400567/22_j1xb5w.png",
+    "verify": "https://www.codepolitan.com/c/EOJCJS4"
+  },
+  {
+    "title": "RESTful dengan Adonis.js",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400567/22_j1xb5w.png",
+    "verify": "https://www.codepolitan.com/c/NKGE4QX"
+  },
+  {
+    "title": "Directory Listing App",
+    "issuer": "Codepolitan",
+    "issued_at": "2024-02-26",
+    "expires_at": "2027-02-25",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400568/24_jwlce4.png",
+    "verify": "https://www.codepolitan.com/c/QTNLA6E"
+  },
+  {
+    "title": "Komunikasi Efektif Dalam Public Relation",
+    "issuer": "Karier.mu",
+    "issued_at": "2023-07-29",
+    "expires_at": null,
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400568/publicrelation_qrm9qp.png",
+    "verify": ""
+  },
+  {
+    "title": "RabbitMQ Basic",
+    "issuer": "Udemy",
+    "issued_at": "2023-12-30",
+    "expires_at": null,
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400546/udemy_osx7q1.png",
+    "verify": ""
+  },
+
+  {
+    "title": "Cara Memulai Bisnis Yang Menguntungkan",
+    "issuer": "Tumbu",
+    "issued_at": "2023-12-30",
+    "expires_at": null,
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400546/tumbu1_lk9s64.png",
+    "verify": ""
+  },
+  {
+    "title": "Pajak & Budgeting",
+    "issuer": "Blu Academy",
+    "issued_at": "2023-12-30",
+    "expires_at": null,
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769400546/3_wqzmh5.png",
+    "verify": ""
+  }
+]

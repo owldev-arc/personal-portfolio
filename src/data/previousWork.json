@@ -1,0 +1,152 @@
+[
+  {
+    "id": "company-profile-cms",
+    "title": "After well",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2024",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433753/afterwell_lfa25n.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "title": "Delta Sigma Nusantara",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2022",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433757/dsn_bvztly.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "title": "Ghaniya Scarfes",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433762/ghaniyya_dxkccr.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+
+    "title": "Tesud",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433760/tesud_rwur17.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+
+    "title": "Rielle",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433760/rielle_lhgdqf.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+
+    "title": "Jasa Logo",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433758/jasalogo_fdziyi.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+
+    "title": "Gigs Cafe",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433758/gigscafe_lifox1.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+
+    "title": "Gwash",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433756/gwash_fc5gou.png",
+    "status": "archived"
+  },
+  {
+    "id": "company-profile-cms",
+    "type": "Website",
+    "role": "Web Developer",
+    "scope": [
+      "Frontend Development",
+      "CMS Architecture",
+      "Content & Data Modeling"
+    ],
+    "tech": ["Laravel", "Custom CSS", "MySQL"],
+    "year": "2021",
+    "description": "Custom-built company profile website with a tailored CMS, structured content workflows, and responsive UI.",
+
+    "title": "Lashira Beauty",
+    "image": "https://res.cloudinary.com/dykoop6rv/image/upload/v1769433756/lashirabeauty_ojrdgu.png",
+    "status": "archived"
+  }
+]

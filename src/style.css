@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-slate-950 text-gray-100;
+}
+
+#app {
+  @apply min-h-screen bg-slate-950;
+}
+
+body {
+  overscroll-behavior: none;
+}
