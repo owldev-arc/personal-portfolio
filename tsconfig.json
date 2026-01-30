@@ -15,7 +15,8 @@
       "@/*": ["src/*"]
     },
 
-    "types": ["vite/client"]
+    "types": ["vite/client"],
+    "lib": ["ES2020", "DOM", "DOM.Iterable"]
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"]
 }
